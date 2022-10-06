@@ -9,6 +9,16 @@ export default {
         "Detroit",
         "Atlanta",
         "Miami",
-        ""
+        "Tokyo",
+        "London",
+        "Athens",
+        "Moscow",
+        "Kabul",
+        "Cape Town",
+        "Manchester",
+        "Toronto",
+        "Birmingham",
+        "Liverpool",
+        "Cairo"
     ]
 }
